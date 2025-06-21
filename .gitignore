@@ -1,0 +1,23 @@
+# compiler
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+
+c_cpp_properties.json
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+
+speak.txt
+.env
